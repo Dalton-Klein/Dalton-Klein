@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Dalton, a full-stack developer from Minneapolis
 
-I'm a front end developer 🏢 @BigSofaTech, instructor 👨‍🏫 @Codeworks and mentor 🦸‍♂️ @codebar.io. In a former life I was product manager and customer advocate, so I'm especially passionate about awesome functional, accessible and well-tested UIs.
+I'm a full-stack developer 🏢, indie game designer/programmer 🎮, and web bot maker 🤖. In a former life I was a accountant and financial analyst, so I'm especially passionate about very dry, math infused code and algorithms.
 
-Outside of programming I'm a choral singer, love rock climbing, and proud of my cat (she's awesome 🐱).
-
+I also take pride in my hobbies outside software development which include PC gaming🎮, hiking🥾, weight training🏋️, everything coffee☕, and traveling✈️.
 illustration of web developer with laptop
 
 ## What's I'm doing now
