@@ -3,7 +3,6 @@
 I'm a full-stack developer 🏢, indie game designer/programmer 🎮, and web bot maker 🤖. In a former life I was a accountant and financial analyst, so I'm especially passionate about very dry, math infused code and algorithms.
 
 I also take pride in my hobbies outside software development which include PC gaming🎮, hiking🥾, weight training🏋️, everything coffee☕, and traveling✈️.
-illustration of web developer with laptop
 
 ## What's I'm doing now
 
