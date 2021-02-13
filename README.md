@@ -7,9 +7,9 @@ illustration of web developer with laptop
 
 ## What's I'm doing now
 
-🔭 I’m currently working on a Spotify clone using React and Typescript, focusing on test coverage and clean code structure,
-🌱 I’m currently learning EpicReact.dev from @kentcdodds
-💬 Ask me about testing React apps
+🔭 I’m currently working on my ChessLeague game. Hoping to bring it to the iOS store!
+🌱 I’m currently learning more about socket.io and webRTC. 
+🏙️ I’m currently looking for a full time job to earn money for my efforts.
 😄 Pronouns: he/him/his
 
 ## My Languages and tools
