@@ -27,5 +27,6 @@ illustration of web developer with laptop
 <code><img height="40" alt="Sequelize" src="/Sequelize Badge288.png"></code>
 <code><img height="40" alt="SocketIO" src="/socketiobadge288.png"></code>
 <code><img height="40" alt="SASS" src="/Sass Badge288.png"></code>
+<code><img height="40" alt="koa" src="/koabadge288.png"></code>
 
 [![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalton-Klein)](https://github.com/anuraghazra/github-readme-stats)
