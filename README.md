@@ -24,6 +24,6 @@ illustration of web developer with laptop
 <code><img height="40" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" alt="PostgreSQL" src="/Sequelize Badge288.png"></code>
+<code><img height="40" alt="Sequelize" src="/Sequelize Badge288.png"></code>
 
 [![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalton-Klein)](https://github.com/anuraghazra/github-readme-stats)
