@@ -1,16 +1,14 @@
 ## Hi there 👋 I'm Dalton, a full-stack developer from Minneapolis
 
-I'm a front end developer 🏢 @BigSofaTech, instructor 👨‍🏫 @Codeworks and mentor 🦸‍♂️ @codebar.io. In a former life I was product manager and customer advocate, so I'm especially passionate about awesome functional, accessible and well-tested UIs.
+I'm a full-stack developer 🏢, indie game designer/programmer 🎮, and web bot maker 🤖. In a former life I was a accountant and financial analyst, so I'm especially passionate about very dry, math infused code and algorithms.
 
-Outside of programming I'm a choral singer, love rock climbing, and proud of my cat (she's awesome 🐱).
-
-illustration of web developer with laptop
+I also take pride in my hobbies outside software development which include PC gaming🎮, hiking🥾, weight training🏋️, everything coffee☕, and traveling✈️.
 
 ## What's I'm doing now
 
-🔭 I’m currently working on a Spotify clone using React and Typescript, focusing on test coverage and clean code structure,
-🌱 I’m currently learning EpicReact.dev from @kentcdodds
-💬 Ask me about testing React apps
+🔭 I’m currently working on my ChessLeague game. Hoping to bring it to the iOS store!
+🌱 I’m currently learning more about socket.io and webRTC. 
+🏙️ I’m currently looking for a full time job to earn money for my efforts.
 😄 Pronouns: he/him/his
 
 ## My Languages and tools
@@ -27,5 +25,6 @@ illustration of web developer with laptop
 <code><img height="40" alt="Sequelize" src="/Sequelize Badge288.png"></code>
 <code><img height="40" alt="SocketIO" src="/socketiobadge288.png"></code>
 <code><img height="40" alt="SASS" src="/Sass Badge288.png"></code>
+<code><img height="40" alt="koa" src="/koabadge288.png"></code>
 
 [![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalton-Klein)](https://github.com/anuraghazra/github-readme-stats)
