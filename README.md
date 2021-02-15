@@ -16,7 +16,7 @@ I also take pride in my hobbies outside software development which include PC ga
 ## Let's Get In Touch
 
 Email:    deklein@live.com
-LinkedIn: https://www.linkedin.com/in/dalton-klein/
+LinkedIn: https://www.linkedin.com/in/dalton-klein/ <br />
 Youtube:  https://www.youtube.com/channel/UCSDzClh9I1FqlCxA_5IH0_g
 Discord:  https://discord.gg/haUk6pD
 
