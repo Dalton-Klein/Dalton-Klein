@@ -13,6 +13,13 @@ I also take pride in my hobbies outside software development which include PC ga
 🏙️ I’m currently looking for a full time job to earn money for my efforts.
 😄 Pronouns: he/him/his
 
+## Let's Get In Touch
+
+Email:    deklein@live.com
+LinkedIn: https://www.linkedin.com/in/dalton-klein/
+Youtube:  https://www.youtube.com/channel/UCSDzClh9I1FqlCxA_5IH0_g
+Discord:  https://discord.gg/haUk6pD
+
 ## My Languages and tools
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
