@@ -15,6 +15,8 @@ I also take pride in my hobbies outside software development which include PC ga
 
 ## Let's Get In Touch
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="dalton-klein"><a class="LI-simple-link" href='https://www.linkedin.com/in/dalton-klein?trk=profile-badge'>Dalton Klein</a></div>
+
 Email:    deklein@live.com <br />
 LinkedIn: https://www.linkedin.com/in/dalton-klein/ <br />
 Website:  https://dklein.io <br />
