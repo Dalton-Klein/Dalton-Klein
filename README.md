@@ -14,11 +14,11 @@ I also take pride in my hobbies outside software development which include PC ga
 
 ## Let's Get In Touch
 
-Email:    deklein@live.com <br />
-LinkedIn: https://www.linkedin.com/in/dalton-klein/ <br />
-Website:  https://dklein.io <br />
-Youtube:  https://www.youtube.com/channel/UCSDzClh9I1FqlCxA_5IH0_g <br />
-Discord:  https://discord.gg/haUk6pD <br />
+✉️:    deklein@live.com <br />
+💼: https://www.linkedin.com/in/dalton-klein/ <br />
+🌐:  https://dklein.io <br />
+📽️:  https://www.youtube.com/channel/UCSDzClh9I1FqlCxA_5IH0_g <br />
+💬:  https://discord.gg/haUk6pD <br />
 
 ## My Languages and tools
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
