@@ -8,10 +8,10 @@ I also take pride in my hobbies outside software development which include PC ga
 
 ## What's I'm doing now
 
-🔭 I’m currently working on my ChessLeague game. Hoping to bring it to the iOS store!
-🌱 I’m currently learning more about socket.io and webRTC. 
-🏙️ I’m currently looking for a full time job to earn money for my efforts.
-😄 Pronouns: he/him/his
+- 🔭 I’m currently working on my ChessLeague game. Hoping to bring it to the iOS store!
+- 🌱 I’m currently learning more about socket.io and webRTC. 
+- 🏙️ I’m currently looking for a full time job to earn money for my efforts.
+- 😄 Pronouns: he/him/his
 
 ## Let's Get In Touch
 
