@@ -8,9 +8,10 @@ I also take pride in my hobbies outside software development which include PC ga
 
 ## What's I'm doing now
 
-- 🔭 I’m currently working on my ChessLeague game. Hoping to bring it to the iOS store!
+- 🏙️ I’m currently working for UnitedHealth Group as a senior full-stack enginner. I work on internal finance, accounting, and reporting applications.
+- 🔭 I’m currently working on a social media and forum based application geared towards developers. Hoping to bring and MVP live soon!
 - 🌱 I’m currently learning more about socket.io and webRTC. 
-- 🏙️ I’m currently looking for a full time job to earn money for my efforts.
+
 
 ## Let's Get In Touch
 
