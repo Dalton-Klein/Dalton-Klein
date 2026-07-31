@@ -7,9 +7,9 @@ I'm a full-stack developer 🏢, indie game designer/programmer 🎮, and web bo
 I also take pride in my hobbies outside software development which include PC gaming🎮, hiking🥾, weight training🏋️, everything coffee☕, and traveling✈️.
 
 ## What's I'm doing now
-- 🏙️ I’m currently working for UnitedHealth Group as a senior full-stack enginner. I work on internal finance, accounting, and reporting applications.
-- 🔭 I’m currently working on a social LFG / LFM web application geared towards gamers called gangs.gg. The MLP  is live at: https://www.gangs.gg
-- 🌱 I’m currently learning more about socket.io and webRTC. I have implemented many examples of socket on my gangs application 
+- 🏙️ I’m currently working for UnitedHealth Group as a lead full-stack engineer. I work on internal financial, forecasting, and recosting applications.
+- 🔭 I’m currently working on a super cozy voxel based RTS game that has some cool tech involved. 
+- 🌱 I’m currently learning more about and striving to improve AI driven workflows, that boost productivity but more importantly, mitigate the risks (that any engineer that uses AI to do coding tasks knows all too well). 
 
 
 ## Let's Get In Touch
